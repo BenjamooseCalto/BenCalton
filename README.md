@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pwnsomemcdkk, or Ben!
 - 👀 I’m interested in Aerospace Engineering
-- 🌱 I’m currently learning basic coding
+- 🌱 I’m currently learning advanced Python and Machine Learning/AI
 
 <!---
 Pwnsomemcdkk/Pwnsomemcdkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
